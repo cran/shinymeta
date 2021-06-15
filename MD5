@@ -1,6 +1,6 @@
-d4033ad399484a2651f485025df95652 *DESCRIPTION
+1659a208b30911a9bdc7a801796212a9 *DESCRIPTION
 0cde46aeacf6e4c505735b3886d12f1d *NAMESPACE
-0c7e8b6686fc4c8bf61e7a99b6fe5b32 *NEWS.md
+8e1de3c64c844db8688c39fa09679776 *NEWS.md
 2b865898b99c6fd7a14efc1d397e91b5 *R/archive.R
 5747d588872a8cfa40a3d9ef67f8eaf9 *R/display.R
 f287c2cd4d15a42030ed1031b8148e87 *R/format.R
@@ -15,7 +15,7 @@ ba43691bf1f0cc4d7d3090e5f823eaf3 *R/report.R
 603ac11844c16ec2590e5c3d2f5585db *R/utils-format.R
 aed8f2b837895ee0e621f06c31f1372b *R/utils.R
 94aed191f91562b0ee01ca475bfad7ac *R/zzz.R
-208160e75919e37d0a20ca4c14f219fa *README.md
+c742623d03b3d090db6e4a2894c19642 *README.md
 f4bedd1f4a4beacccf002dd9dc072551 *inst/lib/output-code/output-code.js
 1950bfcaa13b521fc6547fbb168087ba *inst/report-template.Rmd
 3059fb2db79ec28913d989ec87ed80e0 *man/buildScriptBundle.Rd
@@ -48,5 +48,5 @@ ab039ddd759abb344b9bb8ecf57aad33 *tests/testthat/test-metamodes.R
 91d9b41cf3021d9aaaf63a5f237ac8a0 *tests/testthat/test-metareactive.R
 d89d47674dfb37c7c2cafbad29106791 *tests/testthat/test-observe.R
 01cf58f8702f8b74487c7e7820b5d3ae *tests/testthat/test-render.R
-449f5b151ada36341f3d7fd1318aa55e *tests/testthat/test-report.R
+c0223decd535a64246aac2fd6df9dff3 *tests/testthat/test-report.R
 ef6b3b0240b389726305127c6df1f1c8 *tests/testthat/test-utils.R
