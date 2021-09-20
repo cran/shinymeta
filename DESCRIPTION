@@ -1,7 +1,7 @@
 Package: shinymeta
 Type: Package
 Title: Export Domain Logic from Shiny using Meta-Programming
-Version: 0.2.0.1
+Version: 0.2.0.2
 Authors@R: c(
     person("Joe", "Cheng", email = "joe@rstudio.com", role = "aut"),
     person("Carson", "Sievert", email = "carson@rstudio.com", role = c("cre", "aut"), comment = c(ORCID = "0000-0002-4958-2844")),
@@ -22,10 +22,10 @@ Collate: 'archive.R' 'display.R' 'format.R' 'imports.R' 'utils.R'
         'metareactive.R' 'observe.R' 'globals.R' 'output-code.R'
         'print.R' 'render.R' 'report.R' 'utils-format.R' 'zzz.R'
 NeedsCompilation: no
-Packaged: 2021-06-15 14:25:55 UTC; cpsievert
+Packaged: 2021-09-20 17:36:57 UTC; cpsievert
 Author: Joe Cheng [aut],
   Carson Sievert [cre, aut] (<https://orcid.org/0000-0002-4958-2844>),
   RStudio [cph]
 Maintainer: Carson Sievert <carson@rstudio.com>
 Repository: CRAN
-Date/Publication: 2021-06-15 15:20:02 UTC
+Date/Publication: 2021-09-20 17:50:02 UTC

@@ -1,6 +1,6 @@
-1659a208b30911a9bdc7a801796212a9 *DESCRIPTION
+1cc48f883ba738cac746c9a5248b2791 *DESCRIPTION
 0cde46aeacf6e4c505735b3886d12f1d *NAMESPACE
-8e1de3c64c844db8688c39fa09679776 *NEWS.md
+f9d67e5a17ebe0f953f419e56900b697 *NEWS.md
 2b865898b99c6fd7a14efc1d397e91b5 *R/archive.R
 5747d588872a8cfa40a3d9ef67f8eaf9 *R/display.R
 f287c2cd4d15a42030ed1031b8148e87 *R/format.R
@@ -39,7 +39,7 @@ fdff75d8c6626b1cc3ac96586299c194 *man/metaRender.Rd
 72d6fedef3240ad3d874c5038a1c3cd2 *tests/testthat/assets/template.Rmd
 2a58540d24db38cbce5e71d3b788fa41 *tests/testthat/test-archive.R
 30cbe62850a0c6831ffe5c5dd8f0724c *tests/testthat/test-ast.R
-3fefd9d345b87e971a1bac10d6e979f9 *tests/testthat/test-comments.R
+512d2aad5068fcda45a4e9a11f537bdf *tests/testthat/test-comments.R
 03f81dd760768e4ab34b4f1ef87d38e1 *tests/testthat/test-deparsing.R
 57d4f1dee445172653b628fec5129a6f *tests/testthat/test-expandchain.R
 1ecfe6584df7c20cf451f89966a96f9e *tests/testthat/test-expansion.R
