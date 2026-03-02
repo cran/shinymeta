@@ -1,24 +1,28 @@
-# 0.2.1
+# shinymeta 0.2.2
 
-## Bug fixes
+* Fixed `mrexprSrcrefToLabel()` crash when Shiny's `sourceUTF8()` wraps app code with a `#line` directive. (#130)
+
+* Migrate GPL-3 license to MIT (#129)
+
+# shinymeta 0.2.1
 
 * Tweak imports to avoid revdepcheck errors for styler. (#119)
 
 * Add `"reactive"` class to `metaReactive` objects, so `shiny::is.reactive()` returns `TRUE` for them. (#120)
 
-# 0.2.0.3
+# shinymeta 0.2.0.3
 
 Small patch release to accommodate for changes made to `base::deparse()` in the next upcoming R release. (#107)
 
-# 0.2.0.2
+# shinymeta 0.2.0.2
 
 Small patch release to accommodate for changes made in testthat 3.1.0. (#102) 
 
-# 0.2.0.1
+# shinymeta 0.2.0.1
 
 Small patch release to address unit test failures on Solaris. (#101)
 
-# 0.2.0
+# shinymeta 0.2.0
 
 ## Breaking changes
 

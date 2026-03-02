@@ -1,6 +1,7 @@
-cf568817f46f9af4cebe54b9f3db163f *DESCRIPTION
+73adc0cf16db2c5493045387ea0f260c *DESCRIPTION
+ab6c41b11384e6c49acbe797fb3bdbe3 *LICENSE
 595e435bdddfea0b1c94bc92fa469f3b *NAMESPACE
-06764cc2dbdf7bf4a6e034ae3493a68c *NEWS.md
+71d37ea07c88a0b810de29c39089e90d *NEWS.md
 13972e50a811bae2b9707195ef4518fc *R/archive.R
 81fb38fc3dcc429550ade6a62ede7b9f *R/display.R
 f287c2cd4d15a42030ed1031b8148e87 *R/format.R
@@ -13,9 +14,9 @@ c583891fa27b2f756530b2d219ec55f8 *R/metareactive.R
 bf173975b216abe263b8b5f914e3a121 *R/render.R
 ba43691bf1f0cc4d7d3090e5f823eaf3 *R/report.R
 603ac11844c16ec2590e5c3d2f5585db *R/utils-format.R
-aed8f2b837895ee0e621f06c31f1372b *R/utils.R
+c469d209f815c1e151b0879a0fe775cf *R/utils.R
 94aed191f91562b0ee01ca475bfad7ac *R/zzz.R
-d35e3f921813d08179dde21a089991a2 *README.md
+ebcea00843dd6a4b2b9e601eabebeabd *README.md
 f4bedd1f4a4beacccf002dd9dc072551 *inst/lib/output-code/output-code.js
 1950bfcaa13b521fc6547fbb168087ba *inst/report-template.Rmd
 3059fb2db79ec28913d989ec87ed80e0 *man/buildScriptBundle.Rd
@@ -32,9 +33,9 @@ c707b3b231d51ca0d003013c1285def6 *man/metaReactive.Rd
 91a861b63a23d986d58bd33b5e925d9c *man/outputCodeButton.Rd
 95fb93ab0ee4c2155cb57063a70904e9 *man/withMetaMode.Rd
 657563cf6e4187b8f062cf8bff8e08ff *tests/testthat.R
-8b27dadada131e31729f59391334223e *tests/testthat/_snaps/format.md
-30e62ed9cba141f4308328c420438f2a *tests/testthat/_snaps/metareactive.md
-6609ed7ad9e2a4aa77da9234d5780006 *tests/testthat/_snaps/render.md
+eac08b9ce2123ff14e9bba82a3979804 *tests/testthat/_snaps/format.md
+ed322b4df7073ec318abebad8df54935 *tests/testthat/_snaps/metareactive.md
+fbeaba07c0892045c3de7068f5d81b93 *tests/testthat/_snaps/render.md
 21ad544fffd843a330999aefd972ba2d *tests/testthat/_snaps/report/template.Rmd
 72d6fedef3240ad3d874c5038a1c3cd2 *tests/testthat/assets/template.Rmd
 2a58540d24db38cbce5e71d3b788fa41 *tests/testthat/test-archive.R
@@ -48,5 +49,5 @@ ab039ddd759abb344b9bb8ecf57aad33 *tests/testthat/test-metamodes.R
 91d9b41cf3021d9aaaf63a5f237ac8a0 *tests/testthat/test-metareactive.R
 d89d47674dfb37c7c2cafbad29106791 *tests/testthat/test-observe.R
 01cf58f8702f8b74487c7e7820b5d3ae *tests/testthat/test-render.R
-b5524a9f59577e591978bff1fc6e5bca *tests/testthat/test-report.R
-ef6b3b0240b389726305127c6df1f1c8 *tests/testthat/test-utils.R
+83e77313a4f0416b2c9bc7931a36fe6d *tests/testthat/test-report.R
+e9746cc47602de7717ae2e417f92374c *tests/testthat/test-utils.R
